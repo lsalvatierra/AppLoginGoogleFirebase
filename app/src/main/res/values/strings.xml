@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLoginGoogleFirebase</string>
+    <string name="valbtncerrar">Cerrar autenticación Google</string>
+</resources>
